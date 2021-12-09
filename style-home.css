@@ -1,0 +1,52 @@
+body {
+    background: #FFFFFF;
+}
+#banner {
+    width: 100%;
+}
+
+.principal {
+    background: #cccccc;
+    padding: 30px;
+}
+p {
+    text-align: center;
+}
+em strong{
+    color: red;
+}
+
+#missao {
+    font-size: 20px;
+}
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.centralizado {
+    text-align: center;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 20%;
+}
+
+.imgbeneficios {
+    width: 50%;
+}
+/*padding = espaçamento interno do item*/
+/*border = cria a borda*/
+/*margin = cria a margem externa à borda*/
